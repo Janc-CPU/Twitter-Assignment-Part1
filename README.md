@@ -25,3 +25,30 @@ Here's a walkthrough of implemented user stories:
 
 ![Twitter1](https://user-images.githubusercontent.com/89956735/135018803-69c09764-32e3-40e5-817c-574e46233877.gif)
 ![Twitter1(part2)](https://user-images.githubusercontent.com/89956735/135385837-376ece08-8a76-4ba8-9bce-55335b4a9de4.gif)
+
+
+📝 `NOTE` Paste this template at the top of your existing `README.md` file from part 1 of this assignment. (🚫 Remove this paragraph after after checking off completed user stories)
+
+# Twitter - Part II
+
+This is a basic twitter app to view, compose, favorite, and retweet tweets.
+
+Time spent: **X** hours spent in total
+
+## User Stories
+
+The following **required** functionality is completed:
+
+- [X] User can compose a tweet. (4pts)
+- [X] User can favorite a tweet. (4pts)
+- [X] User can retweet a tweet. (2pts)
+
+The following **bonus** features are implemented:
+
+- [ ] When composing a tweet, user sees a countdown for the number of characters remaining for the tweet (out of 280) (2pts)
+- [ ] User can view their profile in a profile tab. (3pts)
+- [ ] User sees embedded images in tweet if available. (3pts)
+
+## Video Walkthrough
+
+![TwitterPart2](https://user-images.githubusercontent.com/89956735/136309074-1164fb40-08c6-455f-82c0-933949ff1452.gif)
